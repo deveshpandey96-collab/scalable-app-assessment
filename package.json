@@ -1,0 +1,13 @@
+{
+  "name": "scalable-app-assessment",
+  "version": "1.0.0",
+  "description": "Answers, reference implementations and architecture overview for a scalable Node.js/Express assessment",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
